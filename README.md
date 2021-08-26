@@ -5,5 +5,7 @@ because rexo is a fucking piece of shit so i skidded his token logger and its no
 thanks to not fubukii for deobfuscating Floppa
 # Changelog
   -i clean a bunch of shit in the code that were useless
+  
   -i renamed it cuz sex
+  
   -e
