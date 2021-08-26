@@ -2,6 +2,8 @@
 //Please dont skid my code and dont leak deobf code
 //Ty and hf with my selfbot
 //(Selfbots are banned by discord so be careful when using them)
+//(edit) fuck you rexo i skidded your code and fubukii leaked it
+//you piece of shit
 
 
 
