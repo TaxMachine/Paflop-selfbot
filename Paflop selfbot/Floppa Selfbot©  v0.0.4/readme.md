@@ -30,9 +30,7 @@ Once you download the project files you will see a `config.json`. Inside of it w
 When you have the required program installed, have all project files, and have setup config files, you can start the bot:
 
 > Open the `installer.bat`, then open `start.bat`
-
-
-![Exemple](https://i.imgur.com/SopkVEa.png) 
+ 
 
 
 
