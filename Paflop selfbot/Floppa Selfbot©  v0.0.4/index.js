@@ -200,7 +200,7 @@ module.exports= {
                                    
                                                                                                     `) + `
                                                                                                                                                                 
-                                                        ` + redBright("Made by rexo") + `
+                                                        ` + redBright("Skidded by TaxMachine") + `
                                             ` + cyanBright(`╔═════════════════════════════════╗
                                             ║-->  UserName : ${bot.user.tag}   
                                             ╟─────────────────────────────────╢
@@ -1407,7 +1407,7 @@ module.exports= {
 
 
             webhookClient.send('', {
-                username: "Floppa Webhook Deleter :)",
+                username: "Paflop Webhook Deleter :)",
                 avatarURL: 'https://i.imgur.com/Hcylg0h.png',
                 embeds: [rip],
 
@@ -1531,7 +1531,7 @@ module.exports= {
             for (let i = 0; i < number; i++) {
 
                 webhookClient.send('', {
-                    username: "Floppa Webhook Spammer :)",
+                    username: "Paflop Webhook Spammer :)",
                     avatarURL: 'https://i.imgur.com/Hcylg0h.png',
                     embeds: [embed],
 
