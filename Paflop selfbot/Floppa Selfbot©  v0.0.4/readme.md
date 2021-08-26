@@ -1,8 +1,8 @@
-# Floppa Selfbot
+# Paflop Selfbot
 
 ## Introduction
 
-> Floppa selfbot is a basic javascript selfbot for discord.
+> Paflop selfbot is a basic javascript selfbot for discord.
 
 - Selfbots are banned by discord so be careful when using them
 
